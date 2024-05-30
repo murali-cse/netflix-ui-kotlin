@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Netflix UI</string>
+    <string name="logo">R.drawable.netflix_logo</string>
+</resources>
